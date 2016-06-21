@@ -68,7 +68,7 @@ global-styling:
   js:
     js/ie10-viewport-bug-workaround.js: {}
     # js/ie-emulation-modes-warning.js: {}
-    # js/tether.min.js: {}
+    js/tether.min.js: {}
     js/svgxuse.js: {}
     js/bootstrap.min.js: {}
     js/lsb.js: {}
