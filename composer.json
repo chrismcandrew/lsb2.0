@@ -29,7 +29,6 @@
         "drupal/panels": "8.*.*@dev",
         "drupal/simple_sitemap": "8.*.*@dev",
         "drupal/pathauto": "8.*.*@dev",
-	"drupal/features": "8.*.*@dev",
 	"drupal/backup_migrate": "8.*.*@dev"
     },
     "require-dev": {
