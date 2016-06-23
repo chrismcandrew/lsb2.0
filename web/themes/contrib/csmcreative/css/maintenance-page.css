@@ -1,0 +1,61 @@
+
+.brand{
+	display: inline-block;
+	overflow: hidden;
+	width: auto;
+	max-width: 300px;
+	height: auto;
+}
+/*h1, h2, h3, h4, h5, h6{
+font-weight: 500;
+}*/
+.container{
+	padding: 1rem;	
+}
+.grad-red-orange, body.maintenance-page{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#d16429+0,8f0222+50,7d2618+100 */
+background: #d16429; /* Old browsers */
+background: -moz-linear-gradient(top,  #d16429 0%, #8f0222 50%, #7d2618 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #d16429 0%,#8f0222 50%,#7d2618 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #d16429 0%,#8f0222 50%,#7d2618 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d16429', endColorstr='#7d2618',GradientType=0 ); /* IE6-9 */
+
+
+}
+
+.link{
+	color: orange;
+}
+
+.copyright{
+/*display: inline-block;
+width: 100%;*/
+
+font-size: .75rem;
+
+}
+.align-center{
+	text-align: center;
+}
+
+footer{
+		border-top: 1px solid #8f0222;
+		/*width: auto;
+		max-width: 85%;
+		margin: 0 auto;
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		right: 0;*/
+		/*margin-bottom: 3rem;*/
+		text-align: center;
+	}
+
+@media (min-width: 768px) {
+	.container{
+		margin: 0 auto;
+		max-width: 60em;
+	}
+	
+}
+

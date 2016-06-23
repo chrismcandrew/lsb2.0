@@ -54,6 +54,6 @@
  * @see https://www.drupal.org/documentation/install/multi-site
  */
   $sites = array(
-    'csmcreative.dev' => 'csmcreative.dev',
-    'lotussalonbrielle.dev' => 'lotussalonbrielle.dev',
+    'csmcreative.com' => 'csmcreative.com',
+    'lotussalonbrielle.com' => 'lotussalonbrielle.com',
  );
