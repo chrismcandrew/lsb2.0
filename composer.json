@@ -20,7 +20,7 @@
         "drupal-composer/drupal-scaffold": "^2.0.1",
         "cweagans/composer-patches": "~1.0",
         "drupal/core": "8.1.*@dev",
-        "drush/drush": "~8.0",
+        "drush/drush": "8.*",
         "drupal/console": "~0.10",
         "drupal/admin_toolbar": "8.*.*@dev",
         "drupal/ctools": "8.*.*@dev",
@@ -28,8 +28,7 @@
         "drupal/config_update": "8.*.*@dev",
         "drupal/panels": "8.*.*@dev",
         "drupal/simple_sitemap": "8.*.*@dev",
-        "drupal/pathauto": "8.*.*@dev",
-	"drupal/backup_migrate": "8.*.*@dev"
+        "drupal/pathauto": "8.*.*@dev"
     },
     "require-dev": {
        "behat/mink": "~1.7",

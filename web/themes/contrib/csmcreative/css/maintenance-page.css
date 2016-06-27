@@ -1,4 +1,7 @@
-
+body.maintenance-page{
+	color:#fff;
+	text-align: center;
+}
 .brand{
 	display: inline-block;
 	overflow: hidden;
@@ -23,8 +26,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d16429', end
 
 }
 
-.link{
-	color: orange;
+a, a:visited{
+	color: #fff;
+}
+a:hover, a:active, a:focus{
+	color:orange;
 }
 
 .copyright{
