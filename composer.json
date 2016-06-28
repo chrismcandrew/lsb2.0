@@ -29,7 +29,7 @@
         "drupal/panels": "8.*.*@dev",
         "drupal/simple_sitemap": "8.*.*@dev",
         "drupal/pathauto": "8.*.*@dev",
-	"drupal/metatag": "8.*"
+	"drupal/metatag": "8.*.*@dev"
     },
     "require-dev": {
        "behat/mink": "~1.7",
